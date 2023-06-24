@@ -30,7 +30,7 @@ And you are good to go.
 1. This project takes the parameters of an used car like: Company name, Model name, Year of Purchase, Fuel Type and Number of Kilometers it has been driven.
 2. It then predicts the possible price of the car. For example, the image below shows the predicted price of our Hyundai Grand i10. 
 
-<img src="https://github.com/9k-ux/Car_price_predictor/blob/main/demo.png">
+<img src="https://github.com/9k-ux/car_price_predictor_final/blob/main/demo.png">
 
 ## How this project does?
 
@@ -39,7 +39,7 @@ And you are good to go.
 2. The data was cleaned (it was super unclean :( ) and analysed.
 
 3. Then a Linear Regression model was built on top of it which had 0.89 R2_score.
-<img src="https://github.com/9k-ux/Car_price_predictor/blob/main/predict.png">
+<img src="https://github.com/9k-ux/car_price_predictor_final/blob/main/predict.png">
 
 
 4. This project was given the form of an website built on Flask where we used the Linear Regression model to perform predictions.
